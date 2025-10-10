@@ -5,10 +5,10 @@ body {
 }
 
 header {
-    border-bottom: solid 2px rgb(17, 20, 85, 0.623):
+    border-bottom: solid 2px rgba(14, 15, 42, 0.623):
     padding: 20px;
-    font-size 29px;
-    color: rgb (17, 20, 85, 0.623)
+    font-size 20px;
+    color: rgb (247,48, 147, 0.623)
 }
 
 section{
